@@ -1,0 +1,86 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+
+    /* Flex layout for full page */
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+/* Header & Footer */
+header, footer {
+    background-color: #bf1717;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+/* Main Content */
+main {
+    flex: 1;
+    padding: 20px;
+}
+
+/* Section spacing */
+section {
+    margin-bottom: 40px;
+}
+
+/* ========================= */
+/* Box Model */
+/* ========================= */
+.container {
+    width: 300px;
+    height: 150px;
+    padding: 20px;
+    margin: 30px 0;
+    border: 3px solid black;
+    background-color: rgb(164, 242, 136);
+}
+
+/* ========================= */
+/* Flexbox */
+/* ========================= */
+.flex-container {
+    display: flex;
+    flex-direction: row; /* try column */
+    justify-content: space-around;
+    align-items: center;
+    height: 200px;
+    border: 2px dashed black;
+}
+
+.box {
+    width: 60px;
+    height: 60px;
+    background-color: teal;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* ========================= */
+/* Form Styling */
+/* ========================= */
+input {
+    padding: 8px;
+    width: 220px;
+    border: 1px solid gray;
+    border-radius: 5px;
+}
+
+button {
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: darkblue;
+}
