@@ -1,0 +1,49 @@
+STEP 2: UNDERSTAND CLIENT–SERVER ARCHITECTURE
+
+1.  COMPONENTS
+
+Client (Browser) - The client is the user’s browser (e.g., Chrome,
+Edge). - It sends requests to the server and displays responses.
+
+Frontend (UI Layer) - The part of the system users interact with. -
+Built using HTML, CSS, and JavaScript. - Runs in the browser.
+
+Backend (Server) - Handles logic and processing. - Receives requests
+from the client and sends responses.
+
+Database (MongoDB - Conceptual) - Stores application data such as users,
+posts, etc. - Communicates with the backend.
+
+2.  ARCHITECTURE FLOW
+
+-User opens browser (Client)
+
+-Client sends request to Backend
+
+-Backend processes request
+
+-Backend queries Database
+
+-Database returns data to Backend
+
+-Backend sends response to Frontend
+
+-Frontend displays data to the user
+
+VISUALIZATION
+[ Client (Browser) ]
+          ↓
+[ Frontend (UI - HTML/CSS/JS) ]
+          ↓
+[ Backend (Server - Logic) ]
+          ↓
+[ Database (MongoDB) ]
+          ↑
+          └─────────── Response back ───────────┘
+
+4.  SIMPLE ANALOGY
+
+-   Client = You (ordering food)
+-   Frontend = Menu you see
+-   Backend = Kitchen preparing food
+-   Database = Storage of ingredients
