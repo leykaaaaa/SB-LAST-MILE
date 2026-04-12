@@ -1,0 +1,40 @@
+/* Default styles (Desktop View) */
+body {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+/* Styling both divs */
+.box1, .box2 {
+    font-weight: bold;
+    font-size: 24px;
+    padding: 40px;
+    text-align: center;
+}
+
+/* Different background colors */
+.box1 {
+    background-color: lightblue;
+}
+
+.box2 {
+    background-color: lightcoral;
+}
+
+/* 📱 Media Query for tablets and smaller screens */
+@media (max-width: 768px) {
+    body {
+        flex-direction: column;
+    }
+}
+
+/* 📱 Media Query for mobile screens */
+@media (max-width: 480px) {
+    .box1, .box2 {
+        font-size: 18px;
+        padding: 20px;
+    }
+}
