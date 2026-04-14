@@ -1,0 +1,6 @@
+PROJECT VITE
+
+npm create vite@latest form-validation-demo
+cd form-validation-demo
+npm install
+npm run dev
