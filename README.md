@@ -38,15 +38,13 @@ This project is part of the **MongoDB University Program** conducted by the **Sm
 - File: `css-basics`  
 
 - CSS Advanced – Responsive Design, Media Queries, Grid  
-- File: `css-advanced`  
-
-### JavaScript Basics
-- Variables, Data Types & Operators  
-- File: `javascript-basics`  
+- File: `css-advanced`   
 
 ---
 
 ## MODULE 3: JavaScript Core & Advanced Concepts
+- Variables, Data Types & Operators  
+- File: `javascript-basics` 
 
 - JavaScript Control Flow – Conditions, Loops  
   - File: `lab-js-lab`  
