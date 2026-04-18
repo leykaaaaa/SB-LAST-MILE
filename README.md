@@ -2,9 +2,9 @@
 
 ## 👩‍💻 Student Information
 
-**Name:** Angelica Tulagan
-**Program:** Bachelor of Science in Information Technology
-**School:** Universidad de Dagupan
+**Name:** Angelica Tulagan  
+**Program:** Bachelor of Science in Information Technology  
+**School:** Universidad de Dagupan  
 
 ---
 
@@ -12,22 +12,90 @@
 
 This project is part of the **MongoDB University Program** conducted by the **SmartBridge Team**.
 
-LESSONS (FILE NAMES)
-Full Stack overview, Frontend vs Backend (fullstack-intro)
-HTML Fundamentals – Structure, Tags, Forms, Semantic HTML (html-fundamentals)
-CSS Basics – Box Model, Flexbox, Styling Forms & Layouts (css-basics)
-CSS Advanced – Responsive Design, Media Queries, Grid (css-advanced)
-JavaScript Basics – Variables, Data Types & Operators (javascript-basics)
-JavaScript Control Flow – Conditions, Loops (lab-js-lab)
-Javascript Functions,Arrays, Objects & Built-in Methods (arrays-object-lab)
-JavaScript Event Handling (event-handling-demo)
-Modern JavaScript (ES6) – let/const, Arrow Functions (es6-modern-js-lab)
-ES6-,Spread, Destructuring, Modules  (es6-modern-js-lab)
-Asynchronous JavaScript – Callbacks, Promises(
-async/await Functions , Fetch API, JSON Handling & Error Handling (api-fetch-lab)
+---
+
+## 📚 Course Lessons Overview
+
+### 1. Full Stack Introduction
+- File: `fullstack-intro`
+- Topics: Full Stack overview, Frontend vs Backend
+
+### 2. HTML Fundamentals
+- File: `html-fundamentals`
+- Topics:
+  - Structure of HTML
+  - Tags and Elements
+  - Forms
+  - Semantic HTML
+
+### 3. CSS Basics
+- File: `css-basics`
+- Topics:
+  - Box Model
+  - Flexbox
+  - Styling Forms
+  - Layout Design
+
+### 4. CSS Advanced
+- File: `css-advanced`
+- Topics:
+  - Responsive Design
+  - Media Queries
+  - CSS Grid
+
+### 5. JavaScript Basics
+- File: `javascript-basics`
+- Topics:
+  - Variables
+  - Data Types
+  - Operators
+
+### 6. JavaScript Control Flow
+- File: `lab-js-lab`
+- Topics:
+  - Conditions
+  - Loops
+
+### 7. Arrays, Objects & Methods
+- File: `arrays-object-lab`
+- Topics:
+  - Arrays
+  - Objects
+  - Built-in Methods
+
+### 8. Event Handling
+- File: `event-handling-demo`
+- Topics:
+  - DOM Events
+  - Event Listeners
+
+### 9. Modern JavaScript (ES6)
+- File: `es6-modern-js-lab`
+- Topics:
+  - let & const
+  - Arrow Functions
+  - Spread Operator
+  - Destructuring
+  - Modules
+
+### 10. Asynchronous JavaScript & APIs
+- File: `api-fetch-lab`
+- Topics:
+  - Callbacks
+  - Promises
+  - async/await
+  - Fetch API
+  - JSON Handling
+  - Error Handling
 
 ---
 
 ## 📅 Year
 
-2026
+**2026**
+
+---
+
+## 🎯 Objective
+
+To demonstrate understanding of full-stack web development fundamentals including frontend structure, styling, JavaScript programming, and API integration.
