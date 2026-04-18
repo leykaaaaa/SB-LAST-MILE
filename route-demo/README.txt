@@ -188,8 +188,8 @@ GET /search?q=phone → Searching for: phone
 
 ## 👩‍💻 Author
 
-**Yolly Jane**
-BS Civil Engineering Student
+**ANGELICA TULAGAN**
+BACHELOR OF SCIENCE INFORMATION TECHNOLOGY STUDENT
 
 ---
 
