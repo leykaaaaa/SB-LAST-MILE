@@ -89,6 +89,33 @@ This project is part of the **MongoDB University Program** conducted by the **Sm
   - Error Handling
 
 ---
+### 11. Asynchronous Flow Exercises
+- File: `async-js-lab`
+- Topics:
+  - Asynchronous JavaScript flow
+  - Promises chaining
+  - async/await practice
+  - Handling delayed operations
+
+---
+
+### 12. Route Handling Demo
+- File: `route-demo`
+- Topics:
+  - Basic routing concepts
+  - Express route handling
+  - GET and POST routes
+  - Request and response flow
+
+---
+
+### 13. Form Validation Demo
+- File: `form-validation-demo`
+- Topics:
+  - Client-side validation
+  - Input checking (required fields, formats)
+  - Error messaging
+  - Form submission control
 
 ## 📅 Year
 
