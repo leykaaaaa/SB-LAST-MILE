@@ -16,107 +16,83 @@ This project is part of the **MongoDB University Program** conducted by the **Sm
 
 ## 📚 Course Lessons Overview
 
-### 1. Full Stack Introduction
-- File: `fullstack-intro`
-- Topics: Full Stack overview, Frontend vs Backend
-
-### 2. HTML Fundamentals
-- File: `html-fundamentals`
-- Topics:
-  - Structure of HTML
-  - Tags and Elements
-  - Forms
-  - Semantic HTML
-
-### 3. CSS Basics
-- File: `css-basics`
-- Topics:
-  - Box Model
-  - Flexbox
-  - Styling Forms
-  - Layout Design
-
-### 4. CSS Advanced
-- File: `css-advanced`
-- Topics:
-  - Responsive Design
-  - Media Queries
-  - CSS Grid
-
-### 5. JavaScript Basics
-- File: `javascript-basics`
-- Topics:
-  - Variables
-  - Data Types
-  - Operators
-
-### 6. JavaScript Control Flow
-- File: `lab-js-lab`
-- Topics:
-  - Conditions
-  - Loops
-
-### 7. Arrays, Objects & Methods
-- File: `arrays-object-lab`
-- Topics:
-  - Arrays
-  - Objects
-  - Built-in Methods
-
-### 8. Event Handling
-- File: `event-handling-demo`
-- Topics:
-  - DOM Events
-  - Event Listeners
-
-### 9. Modern JavaScript (ES6)
-- File: `es6-modern-js-lab`
-- Topics:
-  - let & const
-  - Arrow Functions
-  - Spread Operator
-  - Destructuring
-  - Modules
-
-### 10. Asynchronous JavaScript & APIs
-- File: `api-fetch-lab`
-- Topics:
-  - Callbacks
-  - Promises
-  - async/await
-  - Fetch API
-  - JSON Handling
-  - Error Handling
-
----
-### 11. Asynchronous Flow Exercises
-- File: `async-js-lab`
-- Topics:
-  - Asynchronous JavaScript flow
-  - Promises chaining
-  - async/await practice
-  - Handling delayed operations
+# COURSE: INTRODUCTION TO FULLSTACK MERN
 
 ---
 
-### 12. Route Handling Demo
-- File: `route-demo`
-- Topics:
-  - Basic routing concepts
-  - Express route handling
-  - GET and POST routes
-  - Request and response flow
+## MODULE 1: Full Stack Fundamentals
+- Full Stack Overview  
+- Frontend vs Backend  
+- File: `fullstack-intro`  
 
 ---
 
-### 13. Form Validation Demo
-- File: `form-validation-demo`
-- Topics:
-  - Client-side validation
-  - Input checking (required fields, formats)
-  - Error messaging
-  - Form submission control
+## MODULE 2: Frontend Development Basics
 
+### HTML
+- HTML Fundamentals – Structure, Tags, Forms, Semantic HTML  
+- File: `html-fundamentals`  
+
+### CSS
+- CSS Basics – Box Model, Flexbox, Styling Forms & Layouts  
+- File: `css-basics`  
+
+- CSS Advanced – Responsive Design, Media Queries, Grid  
+- File: `css-advanced`  
+
+### JavaScript Basics
+- Variables, Data Types & Operators  
+- File: `javascript-basics`  
+
+---
+
+## MODULE 3: JavaScript Core & Advanced Concepts
+
+- JavaScript Control Flow – Conditions, Loops  
+  - File: `lab-js-lab`  
+
+- JavaScript Functions, Arrays, Objects & Built-in Methods  
+  - File: `arrays-object-lab`  
+
+- JavaScript Event Handling  
+  - File: `event-handling-demo`  
+
+- ES6 Modern JavaScript  
+  - Spread, Destructuring, Modules  
+  - File: `es6-modern-js-lab`  
+
+- Asynchronous JavaScript  
+  - async/await Functions  
+  - Fetch API  
+  - JSON Handling & Error Handling  
+  - File: `api-fetch-lab`  
+
+- Async Flow Exercises  
+  - File: `async-js-lab`  
+
+---
+
+## MODULE 5: Backend & Web Interaction
+
+- Route Handling Demo  
+  - File: `route-demo`  
+
+- Form Validation Demo  
+  - File: `form-validation-demo`  
+
+---
+
+# COURSE: INTRO TO FULL STACK DEV AND BASICS
+
+---
+
+## MODULE 6: React Basics & Performance
+
+- Performance and Optimization  
+- React JSX & Props Lab  
+- File: `react-jsx-props-lab`  
+
+---
 ## 📅 Year
 
 **2026**
